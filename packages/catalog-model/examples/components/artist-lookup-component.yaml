@@ -31,7 +31,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
-  system: artist-engagement-portal
+  owner: RSDI Team
+  system: Remote Service Download
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
