@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Monitoring and Telemetry
+  description: Monitoring and Telemetry for Predictive Maintainence
+spec:
+  owner: Telemetry team
+  domain: IAP Serviceability Module
