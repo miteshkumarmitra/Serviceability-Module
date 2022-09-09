@@ -5,6 +5,6 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - ./systems/artist-engagement-portal-system.yaml
-    - ./systems/audio-playback-system.yaml
-    - ./systems/podcast-system.yaml
+    - ./systems/service-tools-system.yaml
+    - ./systems/RSDI-system.yaml
+    - ./systems/telemetry-system.yaml
