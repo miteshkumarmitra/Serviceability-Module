@@ -6,8 +6,8 @@ metadata:
 spec:
   type: team
   profile:
-    displayName: Team B
-    email: team-b@example.com
+    displayName: Service Tools Team
+    email: servicetools@philips.com
     picture: https://avatars.dicebear.com/api/identicon/team-b@example.com.svg?background=%23fff&margin=25
   parent: backstage
   children: []
