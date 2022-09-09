@@ -9,5 +9,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: team-b
-  system: podcast
+  owner: Service Tools Team
+  system: Service Tools
