@@ -8,5 +8,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-b
-  system: podcast
+  owner: RSDI Team
+  system: Remote Service Gateway
