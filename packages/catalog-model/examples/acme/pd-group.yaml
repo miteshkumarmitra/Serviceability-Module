@@ -7,4 +7,4 @@ spec:
   type: department
   # Intentional no profile for testing
   parent: Philips
-  children: [serviceability]
+  children: [PD Serviceability Team]
