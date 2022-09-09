@@ -6,5 +6,5 @@ metadata:
 spec:
   type: library
   lifecycle: experimental
-  owner: team-c
-  system: audio-playback
+  owner: RSDI Team
+  system: Remote Service Download
