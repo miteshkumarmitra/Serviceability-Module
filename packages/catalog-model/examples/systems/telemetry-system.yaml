@@ -4,5 +4,5 @@ metadata:
   name: Monitoring and Telemetry
   description: Monitoring and Telemetry for Predictive Maintainence
 spec:
-  owner: Telemetry team
+  owner: Telemetry Team
   domain: IAP Serviceability Module
