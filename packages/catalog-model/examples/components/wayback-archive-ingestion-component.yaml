@@ -7,4 +7,5 @@ spec:
   type: service
   lifecycle: production
   owner: Telemetry team
+  system: Monitoring and Telemetry
   subcomponentOf: wayback-archive
