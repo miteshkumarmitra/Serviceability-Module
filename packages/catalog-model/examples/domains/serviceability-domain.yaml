@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: IAP Serviceability Module
+  description: Providing reusable service components (as per DfS standard) to ease and speed the corrective, preventive and predictive maintenance of devices and enable the modalities to meet the service KPIs.
+  links:
+    - url: https://share.philips.com/sites/PDInnovation2/SitePages/Servicibility.aspx
+      title: Serviceability Module Readme
+    
+spec:
+  owner: PD Serviceability Team
