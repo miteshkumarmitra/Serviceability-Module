@@ -5,4 +5,4 @@ metadata:
   description: Remote Service Download and Installation
 spec:
   owner: RSDI Team
-  domain: playback
+  domain: IAP Serviceability Module
