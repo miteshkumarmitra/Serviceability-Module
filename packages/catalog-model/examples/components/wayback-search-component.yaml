@@ -6,7 +6,8 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: team-a
+  owner: Telemetry team
+  system: Monitoring and Telemetry
   providesApis:
     - wayback-search
   consumesApis:
