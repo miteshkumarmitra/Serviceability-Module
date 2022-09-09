@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Service Tools
+  description: Service Tools
+  tags:
+    - portal
+spec:
+  owner: Service Tools Team
+  domain: IAP Serviceability Module
