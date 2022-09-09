@@ -8,3 +8,4 @@ spec:
     - ./systems/service-tools-system.yaml
     - ./systems/RSDI-system.yaml
     - ./systems/telemetry-system.yaml
+    - ./systems/RSG-system.yaml
