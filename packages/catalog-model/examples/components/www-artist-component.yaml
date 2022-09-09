@@ -6,6 +6,6 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: team-a
-  system: artist-engagement-portal
+  owner: RSDI Team
+  system: Remote Service Download
   consumesApis: ['component:artist-lookup']
