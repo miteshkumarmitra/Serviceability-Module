@@ -2,11 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Rapid_Data_Transfer
-  description: Podcast API
+  description: Rapid Data Transfer from/to device
   tags:
-    - java
+    - c#
 spec:
-  type: service
-  lifecycle: experimental
+  type: foundational
+  lifecycle: production
   owner: RSDI Team
   system: Remote_Service_Gateway
