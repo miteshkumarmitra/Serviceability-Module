@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: shuffle-api
-  description: Shuffle API
+  name: Service Tools FW
+  description: Service Tools Framework
   tags:
-    - go
+    - c#
 spec:
-  type: service
+  type: foundational
   lifecycle: production
   owner: user:guest
   system: Service_Tools
