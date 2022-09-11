@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: www-artist
-  description: Artist main website
+  name: Downloader
+  description: Component to Download Software
 spec:
-  type: website
+  type: foundational
   lifecycle: production
   owner: RSDI Team
   system: Remote_Service_Download
