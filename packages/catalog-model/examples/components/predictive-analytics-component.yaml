@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-tags:
-    - c#
-    - service
 metadata:
   name: Predictive_Analytics
   description: Predictive Analytics
+  tags:
+    - c#
+    - service
 spec:
   type: middleware
   lifecycle: production
