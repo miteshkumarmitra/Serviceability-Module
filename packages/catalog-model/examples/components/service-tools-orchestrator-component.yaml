@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Service Tools Orchestrator
+  name: Service_Tools_Orchestrator
   description: Service Tools Orchestrator
   tags:
     - c#
