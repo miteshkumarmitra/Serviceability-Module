@@ -16,5 +16,5 @@ spec:
     - ./components/OTEL-Agent-Collector-component.yaml
     - ./components/service-tools-fw-component.yaml
     - ./components/digital-twin-component.yaml
-    - ./components/predictive-analyics-component.yaml
+    - ./components/predictive-analytics-component.yaml
     - ./components/OTEL-Agent-component.yaml
