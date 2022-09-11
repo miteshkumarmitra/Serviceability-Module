@@ -1,13 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-tag:
-
+tags:
+    - c#
+    - service
 metadata:
-  name: OTEL Agent
+  name: OTEL Agent Collector
   description: Open Telemetry Collector Agent
 spec:
   type: foundational
   lifecycle: production
   owner: Telemetry team
   system: Monitoring_and_Telemetry
-  subcomponentOf: wayback-archive
+  subcomponentOf: OTEL Agent
