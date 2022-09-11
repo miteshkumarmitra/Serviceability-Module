@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: Remote Service Download
+  name: Remote_Service_Download
   description: Remote Service Download and Installation
 spec:
   owner: RSDI Team
