@@ -14,7 +14,7 @@ spec:
     - ./components/service-tools-ui-component.yaml
     - ./components/service-tools-orchestrator-component.yaml
     - ./components/shuffle-api-component.yaml
-    - ./components/wayback-archive-component.yaml
+    - ./components/service-tools-fw-component.yaml
     - ./components/wayback-archive-ingestion-component.yaml
     - ./components/wayback-archive-storage-component.yaml
     - ./components/wayback-search-component.yaml
