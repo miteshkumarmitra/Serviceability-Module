@@ -13,8 +13,8 @@ spec:
     - ./components/remote-command-component.yaml
     - ./components/service-tools-ui-component.yaml
     - ./components/service-tools-orchestrator-component.yaml
-    - ./components/shuffle-api-component.yaml
+    - ./components/OTEL-Agent-Collector-component.yaml
     - ./components/service-tools-fw-component.yaml
     - ./components/digital-twin-component.yaml
     - ./components/predictive-analyics-component.yaml
-    - ./components/wayback-search-component.yaml
+    - ./components/OTEL-Agent-component.yaml
