@@ -7,11 +7,11 @@ spec:
   targets:
     - ./components/RSDI-UI-component.yaml
     - ./components/petstore-component.yaml
-    - ./components/playback-order-component.yaml
-    - ./components/podcast-api-component.yaml
+    - ./components/installation-orchestrator-component.yaml
+    - ./components/rapid-data-transfer-component.yaml
     - ./components/queue-proxy-component.yaml
     - ./components/searcher-component.yaml
-    - ./components/playback-lib-component.yaml
+    - ./components/remote-command-component.yaml
     - ./components/www-artist-component.yaml
     - ./components/shuffle-api-component.yaml
     - ./components/wayback-archive-component.yaml
