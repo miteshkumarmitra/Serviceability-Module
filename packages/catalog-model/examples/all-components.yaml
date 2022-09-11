@@ -9,8 +9,8 @@ spec:
     - ./components/petstore-component.yaml
     - ./components/installation-orchestrator-component.yaml
     - ./components/rapid-data-transfer-component.yaml
-    - ./components/queue-proxy-component.yaml
-    - ./components/searcher-component.yaml
+    - ./components/downloader-component.yaml
+    - ./components/remote-command-component.yaml
     - ./components/remote-command-component.yaml
     - ./components/www-artist-component.yaml
     - ./components/shuffle-api-component.yaml
