@@ -12,4 +12,4 @@ spec:
   owner: Telemetry team
   system: Monitoring_and_Telemetry
   providesApis:
-    - wayback-archive
+    - crud-digital-twin
