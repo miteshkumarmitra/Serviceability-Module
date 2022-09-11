@@ -11,7 +11,7 @@ spec:
     - ./components/rapid-data-transfer-component.yaml
     - ./components/downloader-component.yaml
     - ./components/remote-command-component.yaml
-    - ./components/remote-command-component.yaml
+    - ./components/service-tools-ui-component.yaml
     - ./components/www-artist-component.yaml
     - ./components/shuffle-api-component.yaml
     - ./components/wayback-archive-component.yaml
