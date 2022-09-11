@@ -6,7 +6,7 @@ metadata:
 spec:
   type: kubernetes control plance
   lifecycle: experimental
-  owner: RSDI Team
+  owner: rsdi team
   definition: |
     // Copyright 2015 gRPC authors.
     //
