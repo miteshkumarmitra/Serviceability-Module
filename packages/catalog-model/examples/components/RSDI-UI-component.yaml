@@ -4,7 +4,7 @@ metadata:
   name: RSDI_UI
   description: Common Remote Service Download UI
   tags:
-    - C#-DotNET
+    - C#
     - UI
   links:
     - url: https://example.com/user
