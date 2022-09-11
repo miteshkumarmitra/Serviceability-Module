@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: OTEL Agent
+  name: OTEL_Agent
   description: Search of the wayback machine
   tags:
     - c#
