@@ -29,8 +29,8 @@ metadata:
       title: Alerts
       icon: alert
 spec:
-  type: service
-  lifecycle: experimental
+  type: application
+  lifecycle: production
   owner: RSDI Team
   system: Remote_Service_Download
   dependsOn: ['resource:artists-db']
