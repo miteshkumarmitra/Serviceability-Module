@@ -5,7 +5,7 @@ metadata:
   description: Common Remote Service Download UI
   tags:
     - c#
-    - UI
+    - ui
   links:
     - url: https://example.com/user
       title: Examples Users
