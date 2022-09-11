@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-tags:
+metadata:
+  name: Digital_Twin
+  description: Digital Twin Component
+  tags:
     - aws
     - model
-metadata:
-  name: Digital Twin
-  description: Digital Twin Component
 spec:
   type: application
   lifecycle: production
