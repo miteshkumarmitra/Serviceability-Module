@@ -1,5 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+tags:
+    - c#
+    - service
 metadata:
   name: Downloader
   description: Component to Download Software
