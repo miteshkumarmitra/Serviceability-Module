@@ -32,6 +32,6 @@ spec:
   type: service
   lifecycle: experimental
   owner: RSDI Team
-  system: Remote Service Download
+  system: Remote_Service_Download
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
