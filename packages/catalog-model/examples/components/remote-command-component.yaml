@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: playback-order
+  name: Remote_Command_Interpreter
   description: Playback Order
   tags:
     - java
-    - playback
+    - service
 spec:
   type: service
   lifecycle: production
   owner: user:guest
-  system: Remote Service Gateway
+  system: Remote_Service_Gateway
