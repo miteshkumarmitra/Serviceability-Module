@@ -7,5 +7,5 @@ spec:
   type: website
   lifecycle: production
   owner: RSDI Team
-  system: Remote Service Download
+  system: Remote_Service_Download
   consumesApis: ['component:artist-lookup']
