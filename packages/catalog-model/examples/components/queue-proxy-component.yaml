@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: queue-proxy
-  description: Queue Proxy
+  name: service-tool-ui
+  description: UI For Service Tool
   tags:
-    - go
-    - website
+    - asp.net
+    - web
 spec:
-  type: website
+  type: application
   lifecycle: production
   owner: Service Tools Team
   system: Service_Tools
