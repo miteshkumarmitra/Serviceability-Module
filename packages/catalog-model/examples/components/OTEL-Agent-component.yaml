@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-tags:
-    - c#
-    - service
 metadata:
   name: OTEL Agent
   description: Search of the wayback machine
+  tags:
+    - c#
+    - service
 spec:
   type: foundational
   lifecycle: production
