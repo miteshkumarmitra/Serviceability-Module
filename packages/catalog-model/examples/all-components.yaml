@@ -5,7 +5,7 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./components/RSDI-UI-component.yaml
+    - ./components/RSDIUI-component.yaml
     - ./components/petstore-component.yaml
     - ./components/playback-order-component.yaml
     - ./components/podcast-api-component.yaml
