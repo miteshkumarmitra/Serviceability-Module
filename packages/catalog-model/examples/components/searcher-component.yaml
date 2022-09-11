@@ -1,12 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: searcher
-  description: Searcher
+  name: Service Tools Orchestrator
+  description: Service Tools Orchestrator
   tags:
-    - go
+    - c#
+    - service
 spec:
-  type: service
+  type: middleware
   lifecycle: production
   owner: user:guest
   system: Service_Tools
