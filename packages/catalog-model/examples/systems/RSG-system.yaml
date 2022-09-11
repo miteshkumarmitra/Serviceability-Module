@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: Remote Service Gateway
+  name: Remote_Service_Gateway
   description: Remote Service Gateway and Conectivity
 spec:
   owner: RSG Team
