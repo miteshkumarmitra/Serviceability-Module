@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service-tool-ui
+  name: service_tool_ui
   description: UI For Service Tool
   tags:
     - asp.net
