@@ -13,6 +13,4 @@ spec:
   lifecycle: experimental
   owner: RSDI Team
   providesApis:
-    - petstore
-    - streetlights
-    - hello-world
+    - container-hosting
