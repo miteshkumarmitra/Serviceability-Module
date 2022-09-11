@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Installation_Orchestrator
-  description: Audio and video playback SDK
+  description: Installation Orchestrator
 spec:
-  type: library
-  lifecycle: experimental
+  type: middleware
+  lifecycle: production
   owner: RSDI Team
   system: Remote_Service_Download
