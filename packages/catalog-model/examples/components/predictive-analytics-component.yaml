@@ -4,7 +4,7 @@ tags:
     - c#
     - service
 metadata:
-  name: Predictive Analytics
+  name: Predictive_Analytics
   description: Predictive Analytics
 spec:
   type: middleware
