@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: hello-world
+  name: container-hosting
   description: Hello World example for gRPC
 spec:
-  type: grpc
-  lifecycle: deprecated
-  owner: team-c
+  type: kubernetes control plance
+  lifecycle: experimental
+  owner: RSDI Team
   definition: |
     // Copyright 2015 gRPC authors.
     //
