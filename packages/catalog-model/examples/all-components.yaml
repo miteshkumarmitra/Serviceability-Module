@@ -6,7 +6,7 @@ metadata:
 spec:
   targets:
     - ./components/RSDI-UI-component.yaml
-    - ./components/petstore-component.yaml
+    - ./components/container-component.yaml
     - ./components/installation-orchestrator-component.yaml
     - ./components/rapid-data-transfer-component.yaml
     - ./components/downloader-component.yaml
