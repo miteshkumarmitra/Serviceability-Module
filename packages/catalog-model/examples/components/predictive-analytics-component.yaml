@@ -1,10 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+tags:
+    - c#
+    - service
 metadata:
-  name: wayback-archive-ingestion
-  description: Ingestion subsystem of the Wayback Archive
+  name: Predictive Analytics
+  description: Predictive Analytics
 spec:
-  type: service
+  type: middleware
   lifecycle: production
   owner: Telemetry team
   system: Monitoring_and_Telemetry
