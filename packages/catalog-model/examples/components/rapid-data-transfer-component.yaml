@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: podcast-api
+  name: Rapid_Data_Transfer
   description: Podcast API
   tags:
     - java
@@ -9,4 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: RSDI Team
-  system: Remote Service Gateway
+  system: Remote_Service_Gateway
