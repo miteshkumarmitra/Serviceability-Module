@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Remote_Command_Interpreter
-  description: Playback Order
+  description: Remote Command Interpreter
   tags:
-    - java
+    - c#
     - service
 spec:
-  type: service
+  type: middleware
   lifecycle: production
   owner: user:guest
   system: Remote_Service_Gateway
